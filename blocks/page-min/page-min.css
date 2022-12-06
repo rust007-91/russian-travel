@@ -1,0 +1,18 @@
+.page-min {
+    max-width: 984px;
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 1024px){
+    .page-min {
+        max-width: 928px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .page-min {
+        max-width: 720px;
+    }
+}
