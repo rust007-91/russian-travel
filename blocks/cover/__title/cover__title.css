@@ -8,11 +8,10 @@
     line-height: 76px;
     text-align: center;
     color: #FFFFFF;
-    text-decoration: none;
     position: relative;
 }
 
-@media screen and (max-width: 370px) {
+@media screen and (max-width: 510px) {
     .cover__title {
         max-width: 288px;
         min-height: 70px;
