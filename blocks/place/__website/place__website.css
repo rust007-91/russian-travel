@@ -1,7 +1,5 @@
 .place__website {
     display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 12px 22px;
     row-gap: 12px;
     align-items: start;
     align-content: end;

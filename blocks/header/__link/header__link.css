@@ -1,5 +1,7 @@
 .header__link {
     display: flex;
     justify-content: end;
-    padding-bottom: 5px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 5px;
 }
